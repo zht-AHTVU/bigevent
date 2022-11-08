@@ -27,10 +27,6 @@ body {
     display: none;
 }
 
-/* .login-box {
-    display: none;
-} */
-
 .layui-form {
     padding: 0 30px;
 }
@@ -41,7 +37,7 @@ body {
     font-size: 12px;
 }
 
-/* .layui-form-item {
+.layui-form-item {
     position: relative;
 }
 
@@ -49,8 +45,5 @@ body {
     position: absolute;
     left: 10px;
     top: 10px;    
-} */
-
-.layui-input {
-    padding-left: 50px;
 }
+
